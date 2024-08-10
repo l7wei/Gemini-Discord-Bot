@@ -1,0 +1,10 @@
+aiohttp
+discord.py
+google-generativeai
+python-dotenv
+youtube-transcript-api
+PyMuPDF
+requests
+beautifulsoup4
+loguru
+opencc-python-reimplemented
